@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * innit_dog - Initializez a dog structure
+ * init_dog - Initializez a dog structure
  * @d: A dog structure
  * @name: The name of the dog
  * @age: The age of the dog
